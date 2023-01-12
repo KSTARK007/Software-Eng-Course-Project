@@ -15,3 +15,5 @@ In this the Cipher used is AES and hash used is MD5.
 - key should be defined in the file itself.
 
 - pip install pycrypto
+
+Detailed execution step to be found [here](client/docker/README.md)
